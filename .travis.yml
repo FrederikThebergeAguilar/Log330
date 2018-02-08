@@ -1,1 +1,5 @@
 language: java
+
+script:
+
+    -src/mathresources/MathModuleTest.java
