@@ -2,4 +2,4 @@ language: java
 
 script:
 
-    -src/mathresources/MathModuleTest.java
+    -src/mathresources/MathModuleTest
